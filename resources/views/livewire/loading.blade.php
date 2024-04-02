@@ -1,0 +1,3 @@
+<div>
+    <svg width="30px" height="30px" viewBox="0 0 0.9 0.9" fill="none" xmlns="http://www.w3.org/2000/svg" class="animate-spin"><path d="M0.662 0.45H0.787M0.112 0.45h0.125M0.45 0.238V0.112m0 0.675v-0.125" stroke="#363853" stroke-width="0.056249999999999994" stroke-linecap="round" stroke-linejoin="round"/><path d="m0.6 0.3 0.089 -0.089M0.211 0.689 0.3 0.6m0 -0.3L0.211 0.211m0.477 0.477L0.6 0.6" stroke="#4CCD99" stroke-width="0.056249999999999994" stroke-linecap="round" stroke-linejoin="round"/></svg> 
+</div>
